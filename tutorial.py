@@ -2,8 +2,7 @@ from datetime import datetime
 
 import sqlalchemy as db
 '''
-pip install sqlalchemy==1.3.18
-sqlalchemy version  1.3.18'''
+pip install sqlalchemy==1.3.18'''
 
 def get_engine():
     engine = db.create_engine('postgresql://postgres:1234@localhost:5432/dvdrental')
