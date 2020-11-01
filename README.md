@@ -1,4 +1,4 @@
-# SqlAlchemy-Core
+# SqlAlchemy-Core-Tutorial
 
 pip install sqlalchemy==1.3.18
 <br/>
