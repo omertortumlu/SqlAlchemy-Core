@@ -269,12 +269,12 @@ if __name__ == '__main__':
     print('\nAlchemy', datetime.now() - before_api_process)
 
 '''
-Kaynakça
-    Example Datebase: https://www.postgresqltutorial.com/postgresql-sample-database/
+Sources
+    Sample Datebase: https://www.postgresqltutorial.com/postgresql-sample-database/
     Code: github.com/omertortumlu/SqlAlchemy-Core
     https://docs.sqlalchemy.org/en/13/core/tutorial.html
     https://www.tutorialspoint.com/sqlalchemy/index.htm
     https://overiq.com/sqlalchemy-101/
     
-    Kitap: Essential SQLAlchemy: Mapping Python to Databases Yazar: Jason Myers, Rick Copeland
+    Book: Essential SQLAlchemy: Mapping Python to Databases Authors: Jason Myers, Rick Copeland
 '''
