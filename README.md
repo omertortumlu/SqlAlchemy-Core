@@ -10,4 +10,4 @@ https://www.tutorialspoint.com/sqlalchemy/index.html
 <br />
 https://overiq.com/sqlalchemy-101/
 <br />
-Kitap: Essential SQLAlchemy: Mapping Python to Databases Yazar: Jason Myers, Rick Copeland
+Books: Essential SQLAlchemy: Mapping Python to Databases Authors: Jason Myers, Rick Copeland
